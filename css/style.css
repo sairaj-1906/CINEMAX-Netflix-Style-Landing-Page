@@ -49,6 +49,9 @@ html {
 #heroBackdrop {
   transition: background-image 0.6s ease-in-out;
   background-color: #111;
+  background-size: cover;
+  background-position: center 20%;
+  filter: blur(1px) brightness(0.6);
 }
 .hero-gradient {
   background:
