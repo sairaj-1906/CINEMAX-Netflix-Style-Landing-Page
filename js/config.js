@@ -18,8 +18,8 @@
 //      Credentials" -> "API key" -> copy it
 // ============================================
 
-const OMDB_API_KEY = "9cf0a2ff";
-const YOUTUBE_API_KEY = "AIzaSyAKu04BOXMND7Aeowrn8WzTRMQ8gGjVqPE";
+const OMDB_API_KEY = "ADD_YOUR_OMDB_API_KEY";
+const YOUTUBE_API_KEY = "ADD_YOUR_YOUTUBE_API_KEY";
 
 // While true, the app uses local sample movie data instead of
 // calling any API — handy for building/testing the UI before
